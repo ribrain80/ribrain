@@ -1,0 +1,19 @@
+{
+  "name": "ribrain",
+  "version": "0.0.0",
+  "authors": [
+    "RiBrain - Riccardo Brambilla <riccardobra@gmail.com"
+  ],
+  "description": "Riccardo Brambilla personal blog",
+  "main": "index.php",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

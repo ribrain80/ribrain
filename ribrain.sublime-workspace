@@ -1,0 +1,1350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"help",
+				"helpMe"
+			],
+			[
+				"xml",
+				"xmlname"
+			],
+			[
+				"di",
+				"directoryINS"
+			],
+			[
+				"view",
+				"$viewData〔variable〕"
+			],
+			[
+				"epo",
+				"$episodesListData〔variable〕"
+			],
+			[
+				"common",
+				"commonPuntata"
+			],
+			[
+				"cont",
+				"contenuto"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"show",
+				"showsDictionary"
+			],
+			[
+				"programmi",
+				"$programmiList〔variable〕"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"no",
+				"nowrap〔value〕"
+			],
+			[
+				"slug",
+				"$slugKey〔variable〕"
+			],
+			[
+				"item",
+				"$itemsSize〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/pages/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/riccardo/projects/apo/app/controllers.js",
+		"/home/riccardo/projects/apo/fib.php",
+		"/home/riccardo/projects/apo/mail.html",
+		"/home/riccardo/projects/apo/2HsRsP.jpg",
+		"/var/www/radio24/radio24/readme.md",
+		"/var/www/radio24/radio24/app/models/CronDBProgrammi.php",
+		"/var/www/radio24/radio24/app/routes.php",
+		"/var/www/radio24/radio24/app/controllers/ProgrammaController.php",
+		"/var/www/radio24/radio24/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/GenericEventTest.php",
+		"/var/www/radio24/radio24/app/config/s24.php",
+		"/var/www/radio24/radio24/app/models/BaseModels.php",
+		"/var/www/radio24/radio24/app/models/CronProgrammi.php",
+		"/var/www/radio24/radio24/Gruntfile.js",
+		"/var/www/radio24/radio24/app/models/ProgrammiStorage.php",
+		"/var/www/radio24/radio24/app/controllers/BlogController.php",
+		"/var/www/radio24/radio24/app/models/BlogItem.php",
+		"/var/www/radio24/radio24/app/controllers/ApiController.php",
+		"/var/www/radio24/radio24/app/config/staging/session.php",
+		"/var/www/radio24/radio24/app/config/local/session.php",
+		"/var/www/radio24/radio24/app/config/local/s24.php",
+		"/var/www/radio24/radio24/app/models/ProgrammaStorage.php",
+		"/var/www/radio24/radio24/app/config/staging/s24.php",
+		"/var/www/radio24/radio24/source/js/js_base/common/data-twitter.js",
+		"/var/www/radio24/radio24/source/js/js_base/common/data-carousel.js",
+		"/var/www/radio24/radio24/source/js/js_base/common/data-filterlist.js",
+		"/var/www/radio24/radio24/app/views/notizie/scheda.blade.php",
+		"/var/www/radio24/radio24/config.js",
+		"/var/www/radio24/radio24/app/controllers/ConvertController.php",
+		"/var/www/radio24/radio24/app/core/auth/SoleAuth.php",
+		"/var/www/radio24/radio24/app/models/SoleUser.php",
+		"/var/www/radio24/radio24/app/views/partials/footer.blade.php",
+		"/var/www/radio24/radio24/app/core/helpers/CurlHandler.php",
+		"/var/www/radio24/radio24/app/core/helpers/Constants.php",
+		"/var/www/radio24/radio24/app/models/CronNews.php",
+		"/var/www/radio24/radio24/node_modules/grunt-npm-install/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSSettings_test.py",
+		"/var/www/radio24/radio24/feed/methode/contents/programmi.xml",
+		"/var/www/radio24/radio24/feed/s24/blog/w2_blog2015.xml",
+		"/var/www/radio24/radio24/app/views/programmi/top.blade.php",
+		"/var/www/radio24/radio24/feed/methode/contents/programmi-all.xml",
+		"/var/www/knockout_learn/index.html",
+		"/var/www/radio24/radio24/app/storage/programs/programmi/24mattino.xml",
+		"/var/www/radio24/radio24/app/controllers/NewsController.php",
+		"/var/www/radio24/radio24/app/views/master.blade.php",
+		"/var/www/radio24/radio24/app/controllers/TestAdvController.php",
+		"/var/www/radio24/radio24/app/views/programmi/extraleaf.blade.php",
+		"/var/www/radio24/radio24/app/views/programmi/puntata.blade.php",
+		"/var/www/radio24/radio24/source/js/ko_model/ko.basemodel.js",
+		"/var/www/radio24/radio24/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/DataCollector.php",
+		"/var/www/radio24/radio24/app/models/Contenuti.php",
+		"/var/www/radio24/radio24/app/models/Puntate.php",
+		"/var/www/radio24/radio24/app/views/partials/boxspalla/iniziative.blade.php",
+		"/var/www/radio24/radio24/app/models/News.php",
+		"/var/www/radio24/radio24/feed/methode/xml/gSLAreQh7.xml",
+		"/var/www/radio24/radio24/feed/methode/contents/spalle/programmi/cuoridenari.xml",
+		"/var/www/radio24/radio24/app/controllers/ConduttoriController.php",
+		"/var/www/radio24/radio24/app/models/Spalle.php",
+		"/var/www/radio24/radio24/app/models/CronBlog.php",
+		"/var/www/radio24/radio24/source/js/ko_model/ko.ricerca.js",
+		"/var/www/radio24/radio24/source/js/ko_model/ko.blogmodel.js",
+		"/var/www/radio24/radio24/app/controllers/RemoveCacheController.php",
+		"/var/www/radio24/radio24/app/models/CronPodcast.php",
+		"/var/www/radio24/radio24/app/controllers/GenericController.php",
+		"/var/www/radio24/radio24/app/controllers/CentoSecondiController.php",
+		"/var/www/radio24/radio24/app/views/centosecondi/index.blade.php",
+		"/var/www/radio24/radio24/app/controllers/HomeController.php",
+		"/var/www/radio24/radio24/feed/methode/xml/gSLAGjpb6.xml",
+		"/var/www/radio24/radio24/app/views/admin/index.blade.php",
+		"/var/www/radio24/radio24/source/js/admin/ko.admincache.js",
+		"/var/www/radio24/radio24/app/controllers/AdminController.php",
+		"/var/www/radio24/radio24/app/controllers/PodcastController.php",
+		"/var/www/radio24/radio24/app/views/palinsesto/index.blade.php",
+		"/var/www/radio24/radio24/app/views/archivio/index.blade.php",
+		"/var/www/radio24/radio24/app/views/podcast/lista.blade.php",
+		"/var/www/radio24/radio24/app/views/notizie/lista.blade.php",
+		"/var/www/radio24/radio24/app/views/blog.blade.php",
+		"/var/www/radio24/radio24/app/views/404.blade.php",
+		"/var/www/radio24/radio24/app/core/helpers/ServiceResponse.php",
+		"/var/www/radio24/radio24/.ftppass",
+		"/var/www/radio24/radio24/feed/methode/contents/home.xml",
+		"/var/www/radio24/radio24/app/views/home.blade.php",
+		"/var/www/radio24/radio24/app/models/HomeContent.php",
+		"/var/www/radio24/radio24/app/views/home/box_iniziative_top.blade.php",
+		"/var/www/radio24/radio24/app/views/home/box_iniziative_bottom.blade.php",
+		"/var/www/radio24/radio24/app/models/Podcast.php",
+		"/var/www/radio24/radio24/app/views/home/box_iniziative.blade.php",
+		"/var/www/radio24/radio24/app/views/home/evidenza.blade.php",
+		"/var/www/radio24/radio24/app/views/home/box_iniziative_due.blade.php",
+		"/var/www/radio24/radio24/app/views/partials/edizione.blade.php",
+		"/var/www/radio24/radio24/source/sass/02-molecules/_rigo.scss",
+		"/var/www/radio24/radio24/app/views/programmi/scheda.blade.php",
+		"/var/www/radio24/radio24/app/views/partials/box_spalla.blade.php",
+		"/var/www/radio24/radio24/source/css/dsm/style.css",
+		"/var/www/radio24/radio24/source/sass/style.scss",
+		"/var/www/radio24/radio24/bootstrap/start.php",
+		"/var/www/radio24/radio24/app/start/global.php",
+		"/var/www/radio24/radio24/app/database/seeds/AdminUsersTableSeeder.php",
+		"/var/www/radio24/radio24/composer.json",
+		"/var/www/radio24/radio24/app/config/database.php",
+		"/var/www/radio24/radio24/app/config/cache.php",
+		"/var/www/radio24/radio24/app/config/app.php",
+		"/var/www/radio24/radio24/feed/methode/contents/rss/economia-in-pagine.xml",
+		"/var/www/radio24/radio24/app/composers/SiteRootComposer.php",
+		"/var/www/radio24/radio24/feed/s24/blog/w2_spalla.xml",
+		"/var/www/radio24/radio24/node_modules/grunt-bower-task/node_modules/bower/node_modules/mout/string/removeNonASCII.js",
+		"/var/www/radio24/radio24/app/config/local/app.php",
+		"/var/www/radio24/radio24/source/js/ko_model/ko.extramodel.js",
+		"/var/www/radio24/radio24/app/views/programmi/extra.blade.php",
+		"/var/www/radio24/radio24/app/controllers/ArchivioController.php",
+		"/var/www/radio24/radio24/app/controllers/BaseControllers.php",
+		"/var/www/radio24/radio24/app/controllers/CronController.php",
+		"/var/www/radio24/radio24/app/controllers/FrequenzeController.php",
+		"/var/www/radio24/radio24/app/controllers/MobileController.php",
+		"/var/www/radio24/radio24/app/controllers/RicercaController.php",
+		"/var/www/radio24/radio24/app/controllers/SitemapController.php",
+		"/var/www/radio24/radio24/app/controllers/SocialController.php",
+		"/var/www/radio24/radio24/app/controllers/StaffController.php",
+		"/var/www/radio24/radio24/app/controllers/PalinsestoController.php",
+		"/var/www/radio24/radio24/app/controllers/ApiControllerInterface.php",
+		"/var/www/radio24/radio24/app/config/session.php",
+		"/var/www/radio24/radio24/app/config/compile.php",
+		"/var/www/radio24/radio24/app/models/FacebookPost.php",
+		"/var/www/radio24/radio24/app/models/BaseMedia.php",
+		"/var/www/radio24/radio24/app/models/BaseData.php",
+		"/var/www/radio24/radio24/app/models/APostSocial.php",
+		"/var/www/radio24/radio24/app/macros.php",
+		"/var/www/radio24/radio24/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/var/www/radio24/radio24/app/views/programmi/blog.blade.php",
+		"/var/www/radio24/radio24/feed/methode/contents/rss/articoli.xml"
+	],
+	"find":
+	{
+		"height": 90.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/radio24/radio24",
+			"/var/www/radio24/radio24/app/controllers",
+			"/var/www/radio24/radio24/app/models",
+			"/var/www/radio24/radio24"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strPattern",
+			"ftpc",
+			"ftp",
+			"ftp_c",
+			"ftpconf",
+			"ftpfeed",
+			"Blog",
+			"BlogItem",
+			"folder",
+			"lock",
+			"getshowdata",
+			"show",
+			"r24_mm_box",
+			"correlatimediacenter_solr",
+			"delete",
+			"deletelock",
+			"Problemi tecnici webb",
+			"api",
+			"SoleUser",
+			"rsync",
+			"rsybnc",
+			"rsyb",
+			"forceVersioning",
+			"programma",
+			"index.php",
+			"base",
+			"new DOMDocument",
+			"100-se",
+			"sottot",
+			"lab",
+			"labl",
+			"lable",
+			"lablemar",
+			"        \n",
+			"labelmarkup",
+			"programm",
+			"programmi.xml",
+			"button",
+			"24mattino",
+			"fade",
+			"afterRender",
+			"print_r",
+			"exit",
+			"24mattino",
+			"></",
+			"show",
+			"24mattino",
+			"sitepage",
+			"cache",
+			"sitepage",
+			"die",
+			"show",
+			"safe",
+			"safeque",
+			"sitePage",
+			"sitepage",
+			"buildepisode",
+			"sitepage",
+			"extra",
+			"buildNewsItem",
+			">\n",
+			"loc",
+			"lock",
+			"spall",
+			"spalleblo",
+			"objtomulti",
+			"objto",
+			"obj",
+			"['sitepage']",
+			"$adv['sitepage']",
+			"$adv",
+			"key",
+			"cache",
+			"baseurl",
+			"views",
+			"onair",
+			"getPaginatedEpisodesList",
+			"getPaginatedEpisodes",
+			"buildEpisodesList",
+			"show",
+			"print_r",
+			"buildCommonPuntata",
+			"buildcommon",
+			"buildCommonData",
+			"getPaginatedEpisodes",
+			"buildEpisodesList",
+			"buildepisode",
+			"buildespi",
+			"buildCommonPuntata",
+			"buildepiso",
+			"getEpisode",
+			"f",
+			"fe",
+			"fee",
+			"feedby",
+			"www.radio24.it/test/[",
+			"www.radio24.it/test/",
+			"home.box_iniziative_top",
+			"home.box_iniziative",
+			"box_iniziative_top",
+			"blog",
+			"cache",
+			"rig",
+			"rigo__",
+			"rigo",
+			"rigo__",
+			"rigo__program",
+			"ultimaEdizione__item",
+			"News in diretta",
+			"cache",
+			"podcast",
+			"Domdocu",
+			"feed",
+			"new.radio",
+			"\";\n",
+			"wordpress",
+			"*/\n",
+			"microtime",
+			"$start",
+			"$end",
+			"$start",
+			"$end",
+			"puntate",
+			"programma",
+			"removeca",
+			"methode",
+			"curl",
+			"carbon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/pages/home.blade.php",
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								955,
+								955
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"apicontrol",
+				"app/controllers/ApiController.php"
+			],
+			[
+				"s24",
+				"app/config/local/s24.php"
+			],
+			[
+				"crondbpodc",
+				"app/models/CronDBPodcast.php"
+			],
+			[
+				"crondbprog",
+				"app/models/CronDBProgrammi.php"
+			],
+			[
+				"crondb",
+				"app/models/CronDB.php"
+			],
+			[
+				"apicontroller",
+				"app/controllers/ApiController.php"
+			],
+			[
+				"blogitem",
+				"app/models/BlogItem.php"
+			],
+			[
+				"blogcon",
+				"app/controllers/BlogController.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"cronpro",
+				"app/models/CronProgrammi.php"
+			],
+			[
+				"programmastorage",
+				"app/models/ProgrammaStorage.php"
+			],
+			[
+				"get",
+				"vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/GenericEventTest.php"
+			],
+			[
+				"programmacontro",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"settings.p",
+				"node_modules/grunt-npm-install/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSSettings_test.py"
+			],
+			[
+				"cron",
+				"app/models/CronNews.php"
+			],
+			[
+				"consta",
+				"app/core/helpers/Constants.php"
+			],
+			[
+				"curlhan",
+				"app/core/helpers/CurlHandler.php"
+			],
+			[
+				"",
+				"Gruntfile.js"
+			],
+			[
+				"user",
+				"app/models/SoleUser.php"
+			],
+			[
+				"soleauth",
+				"app/core/auth/SoleAuth.php"
+			],
+			[
+				"convertcontroller",
+				"app/controllers/ConvertController.php"
+			],
+			[
+				"scheda.blade",
+				"app/views/notizie/scheda.blade.php"
+			],
+			[
+				"programmi-",
+				"feed/methode/contents/programmi-all.xml"
+			],
+			[
+				"programmi-all",
+				"feed/methode/contents/programmi-all.xml"
+			],
+			[
+				"programmacon",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"cronprogra",
+				"app/models/CronProgrammi.php"
+			],
+			[
+				"programmi.xml",
+				"feed/methode/contents/programmi.xml"
+			],
+			[
+				"24mattino",
+				"app/storage/programs/programmi/24mattino.xml"
+			],
+			[
+				"scehda",
+				"vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/DataCollector.php"
+			],
+			[
+				"ko.base",
+				"source/js/ko_model/ko.basemodel.js"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.js"
+			],
+			[
+				"testadv",
+				"app/controllers/TestAdvController.php"
+			],
+			[
+				"conten",
+				"app/models/Contenuti.php"
+			],
+			[
+				"master",
+				"app/views/master.blade.php"
+			],
+			[
+				"newscontroll",
+				"app/controllers/NewsController.php"
+			],
+			[
+				"programmacontr",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"contenuti",
+				"app/models/Contenuti.php"
+			],
+			[
+				"puntat",
+				"app/models/Puntate.php"
+			],
+			[
+				"gslareq",
+				"feed/methode/xml/gSLAreQh7.xml"
+			],
+			[
+				"news",
+				"app/models/News.php"
+			],
+			[
+				"newcontr",
+				"app/controllers/NewsController.php"
+			],
+			[
+				"progra",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"generic",
+				"app/controllers/GenericController.php"
+			],
+			[
+				"ronpo",
+				"app/models/CronPodcast.php"
+			],
+			[
+				"removeca",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"ko.blo",
+				"source/js/ko_model/ko.blogmodel.js"
+			],
+			[
+				"ko.ricerca",
+				"source/js/ko_model/ko.ricerca.js"
+			],
+			[
+				"cronblo",
+				"app/models/CronBlog.php"
+			],
+			[
+				"spalle",
+				"app/models/Spalle.php"
+			],
+			[
+				"conduttoricon",
+				"app/controllers/ConduttoriController.php"
+			],
+			[
+				"puntate",
+				"app/models/Puntate.php"
+			],
+			[
+				"basemodels",
+				"app/models/BaseModels.php"
+			],
+			[
+				"cento",
+				"app/controllers/CentoSecondiController.php"
+			],
+			[
+				"newscontr",
+				"app/controllers/NewsController.php"
+			],
+			[
+				"programma",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"centose",
+				"app/controllers/CentoSecondiController.php"
+			],
+			[
+				"podcastcontr",
+				"app/controllers/PodcastController.php"
+			],
+			[
+				"remove",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"admincontr",
+				"app/controllers/AdminController.php"
+			],
+			[
+				"apicontr",
+				"app/controllers/ApiController.php"
+			],
+			[
+				"adminca",
+				"source/js/admin/ko.admincache.js"
+			],
+			[
+				"apicontroll",
+				"app/controllers/ApiController.php"
+			],
+			[
+				"contenut",
+				"app/models/Contenuti.php"
+			],
+			[
+				"blog.",
+				"app/views/blog.blade.php"
+			],
+			[
+				"podcast",
+				"app/models/Podcast.php"
+			],
+			[
+				"lista",
+				"app/views/podcast/lista.blade.php"
+			],
+			[
+				"basemo",
+				"app/models/BaseModels.php"
+			],
+			[
+				"homeconte",
+				"app/models/HomeContent.php"
+			],
+			[
+				"homecontr",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"box_",
+				"app/views/home/box_iniziative.blade.php"
+			],
+			[
+				"home.",
+				"app/views/home.blade.php"
+			],
+			[
+				"homecont",
+				"app/models/HomeContent.php"
+			],
+			[
+				"homecontrol",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"removecache",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"home",
+				"app/views/home.blade.php"
+			],
+			[
+				"admincon",
+				"app/controllers/AdminController.php"
+			],
+			[
+				"start",
+				"bootstrap/start.php"
+			],
+			[
+				"curlhand",
+				"app/core/helpers/CurlHandler.php"
+			],
+			[
+				"rem",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"homecon",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"databse",
+				"app/config/database.php"
+			],
+			[
+				"cronprogrammi",
+				"app/models/CronProgrammi.php"
+			],
+			[
+				"convertcon",
+				"app/controllers/ConvertController.php"
+			],
+			[
+				"programmaconre",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"programmist",
+				"app/models/ProgrammiStorage.php"
+			],
+			[
+				"newcontroll",
+				"app/controllers/NewsController.php"
+			],
+			[
+				"newcontro",
+				"app/controllers/NewsController.php"
+			],
+			[
+				"siteroot",
+				"app/composers/SiteRootComposer.php"
+			],
+			[
+				"remo",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"homeco",
+				"app/models/HomeContent.php"
+			],
+			[
+				"removec",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"removecach",
+				"app/controllers/RemoveCacheController.php"
+			],
+			[
+				"ko.ex",
+				"source/js/ko_model/ko.extramodel.js"
+			],
+			[
+				"hom",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"rpogrammi",
+				"app/models/CronProgrammi.php"
+			],
+			[
+				"programmistorag",
+				"app/models/ProgrammiStorage.php"
+			],
+			[
+				"palinse",
+				"app/controllers/PalinsestoController.php"
+			],
+			[
+				"basecontroll",
+				"app/controllers/BaseControllers.php"
+			],
+			[
+				"programm",
+				"app/controllers/ProgrammaController.php"
+			],
+			[
+				"palinsesto",
+				"app/controllers/PalinsestoController.php"
+			],
+			[
+				"cache.php",
+				"app/config/cache.php"
+			],
+			[
+				"programmistorage",
+				"app/models/ProgrammiStorage.php"
+			],
+			[
+				"session",
+				"app/config/session.php"
+			],
+			[
+				"cac",
+				"app/config/cache.php"
+			],
+			[
+				"carbon",
+				"vendor/nesbot/carbon/src/Carbon/Carbon.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"shoulder",
+				"app/views/partials/shoulder.blade.php"
+			],
+			[
+				"footer",
+				"app/views/blog/footer.blade.php"
+			],
+			[
+				"500.bl",
+				"app/views/500.blade.php"
+			],
+			[
+				"routehandl",
+				"app/core/helpers/RouteHandler.php"
+			],
+			[
+				"buildpa",
+				"vendor/nikic/php-parser/grammar/rebuildParser.php"
+			],
+			[
+				"blog.blade",
+				"app/views/blog.blade.php"
+			],
+			[
+				"routes.php",
+				"app/routes.php"
+			],
+			[
+				"ko.rice",
+				"source/js/ko_model/ko.ricerca.js"
+			],
+			[
+				"bufferhandler",
+				"vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php"
+			],
+			[
+				"logger",
+				"vendor/monolog/monolog/src/Monolog/Logger.php"
+			],
+			[
+				"abstractprocess",
+				"vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php"
+			],
+			[
+				"mailhandler",
+				"vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php"
+			],
+			[
+				"swiftmailer",
+				"vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php"
+			],
+			[
+				"htmlform",
+				"vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php"
+			],
+			[
+				"mail",
+				"app/config/mail.php"
+			],
+			[
+				"normalizeformatt",
+				"vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php"
+			],
+			[
+				"htmlforma",
+				"vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php"
+			],
+			[
+				"linefor",
+				"vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"lineformatter",
+				"vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php"
+			],
+			[
+				"mail.php",
+				"app/config/mail.php"
+			],
+			[
+				"mailhelper",
+				"node_modules/grunt-bower-task/node_modules/bower/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/riccardo/projects/gulpexample/gulpexample.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true
+}
